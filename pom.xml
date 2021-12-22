@@ -5,7 +5,7 @@
 
   <groupId>de.bildschirmarbeiter</groupId>
   <artifactId>parent</artifactId>
-  <version>8-SNAPSHOT</version>
+  <version>8</version>
   <packaging>pom</packaging>
 
   <name>Bildschirmarbeiter Parent</name>
@@ -37,7 +37,7 @@
     <connection>scm:git:git://github.com/bildschirmarbeiter/parent.git</connection>
     <developerConnection>scm:git:git@github.com:bildschirmarbeiter/parent.git</developerConnection>
     <url>https://github.com/bildschirmarbeiter/parent/tree/master</url>
-    <tag>HEAD</tag>
+    <tag>parent-8</tag>
   </scm>
 
   <distributionManagement>
